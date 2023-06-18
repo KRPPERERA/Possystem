@@ -1,2 +1,1 @@
-# Possystem
-new repo
+"# pos-and-inventory-system" 
